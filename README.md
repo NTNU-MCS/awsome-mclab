@@ -19,7 +19,7 @@ A curated list of software, tools, and papers developed at [NTNU MCS Laboratory]
 - [mcsimpy](https://github.com/NTNU-MCS/mcsimpy)
   High-fidelity simulation framework for select Cybership vessels and R/V Gunnerus.
 
-- [Gunnerus IT Tools](https://github.com/NTNU-MCS/gunnerus-logging-tools)
+- [Gunnerus Logging Tools](https://github.com/NTNU-MCS/gunnerus-logging-tools)
   Utility packages for tapping into the R/V Gunnerus data streams.
 
 ## Papers
