@@ -1,6 +1,6 @@
 # Awesome Marine Cybernetics Laboratory (MC-Lab) 🚢 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of software, tools, and papers developed at [NTNU MCS Laboratory](https://github.com/NTNU-MCS) for research on autonomous and cyber-physical ships.
+A curated list of software, tools, and papers developed at [NTNU MCS Laboratory](https://www.ntnu.edu/imt/lab/cybernetics) for research on autonomous and cyber-physical ships.
 
 ## Software
 
