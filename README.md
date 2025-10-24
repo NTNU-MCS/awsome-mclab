@@ -7,17 +7,29 @@ A curated list of software, tools, and papers developed at [NTNU MCS Laboratory]
 - [Cybership Software Suite](https://github.com/NTNU-MCS/cybership_software_suite)
   Core software stack for autonomous vessel research.
 
-- [Cybership Stonefish Simulator](https://github.com/NTNU-MCS/cybership_stonefish_common)
-  Common interfaces and tools for the Stonefish-based simulation environment.
+- [Template Python Package](https://github.com/NTNU-MCS/template_python_package)
+  Suggested boilerplate for creating Python packages.
+
+## Control
+
+- [skadipy](https://github.com/incebellipipo/skadipy)
+  Python package for maneuvering-based thrust allocation for marine vessels.
+
+## Simulators
 
 - [shoeboxpy](https://github.com/NTNU-MCS/shoeboxpy)
   Simplified 3-DoF and 6-DoF shoebox vessel models.
 
-- [mcmodels](https://github.com/NTNU-MCS/mcmodels)
-  Hydrodynamical model database of vessels in the inventory, including *milliAmpere1*.
-
 - [mcsimpy](https://github.com/NTNU-MCS/mcsimpy)
   High-fidelity simulation framework for select Cybership vessels and R/V Gunnerus.
+
+- [Cybership Stonefish Simulator](https://github.com/NTNU-MCS/cybership_stonefish_common)
+  Common interfaces and tools for the Stonefish-based simulation environment.
+
+## Data and Models
+
+- [mcmodels](https://github.com/NTNU-MCS/mcmodels)
+  Hydrodynamical model database of vessels in the inventory, including *milliAmpere1*.
 
 - [Gunnerus Logging Tools](https://github.com/NTNU-MCS/gunnerus-logging-tools)
   Utility packages for tapping into the R/V Gunnerus data streams.
